@@ -1,1 +1,7 @@
-# Covid-19-Mumbai
+# covid19mumbai
+
+How to run:
+```bash
+npm i
+npm start
+```
